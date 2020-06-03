@@ -13,6 +13,10 @@ Based upon $distribution (right now Fedora 31) this tooling creates with dracut 
 * dnf
 * make
 
+```shell
+sudo dnf install git python3 make
+```
+
 ## HowTo
 
 ```shell
